@@ -4,7 +4,7 @@
 
 Welcome to the Weather Go, a Beginner Friendly Weather web application powered by Node.js and Express.js that utilizes the OpenWeather API to provide real-time weather information. Stay ahead of the elements with accurate forecasts and an intuitive user interface.
 
-##**Screenshots**
+## Screenshots
 [![Weather-Go-Homepage.png](https://i.postimg.cc/yxttSg53/Weather-Go-Homepage.png)](https://postimg.cc/jn6Zp5RR)
 [![Weather-Go-Weather-Page.png](https://i.postimg.cc/QMF6cxQp/Weather-Go-Weather-Page.png)](https://postimg.cc/mcGNs46D)
 
