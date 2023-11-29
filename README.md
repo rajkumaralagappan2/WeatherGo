@@ -10,7 +10,7 @@ Welcome to the Weather Go, a Beginner Friendly Weather web application powered b
 
 
 ## Features
-- **ANYWHERE**- Get Weather Update on any part of the World
+- **On the Go**- Get Weather Update on any part of the World on the go..
 
 ## Setup
 
