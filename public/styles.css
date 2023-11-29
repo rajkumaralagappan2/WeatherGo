@@ -1,0 +1,98 @@
+body{
+    background-color: #fff;
+}
+
+a{
+    cursor: pointer;
+}
+
+#content{
+    background-image:url("data:image/jpeg;base64,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");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 9%;
+}
+
+/* Navigation Bar */
+
+.nav-link{
+    color: #31304D;
+    
+}
+.navbar{
+    margin: 10px 90px;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+
+.navbar-brand,h2{
+    font-size:2.5rem;
+    font-family: "Sacromento";
+    color: #fff;
+    font-weight:900;
+}
+
+.nav-items{
+    padding-right:10px;
+}
+
+
+.titlepage{
+    font-family:"Montserrat";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #fff;
+    font-weight:900;
+
+}
+
+.label{
+    font-size: 2rem;
+    font-family: "Montserrat";
+    color: #31304D;
+    font-weight: 600;
+}
+
+.title{ 
+    position: relative;
+    right:20%;
+    
+}
+.container{
+    padding: 3% 15%;
+
+}
+
+
+input{
+    margin-bottom: 10px;
+}
+
+
+.query{
+    position: relative;
+    top:40px;
+}
+.btn{
+    margin-top: 10px;
+    font-family: "Montserrat";
+    outline: none;
+}
+
+footer{
+    
+    text-align:center;
+    color: #000;
+}
+
+.fa-brands{
+    padding:10px;
+}
+
+.text{
+    text-shadow:
+    3px 3px 2px #000,
+    -3px 3px 2px #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
+}

@@ -1,0 +1,22 @@
+<%- include("partials/header") %>
+
+
+    <div class= "row">
+        <div class="col col-lg-6 title">
+            <h1 class=" titlepage"> Get Weather on the go.</h1>
+        </div>
+        <div class="col col-lg-6">
+            <label class="label">Search Your City</label>
+            <div class="query">
+                <form method="post" action="/">
+                    <div class="form-group"> 
+                        <input type="text" class="form-control" name="city" placeholder="Enter City" required autocomplete="off" autofocus>
+                        <button type="submit" class="btn btn-primary">Get Weather</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<%- include("partials/footer") -%>
